@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
 <p align="center">
-  <img src="./ascii-portrait.png" alt="Iamshreyasc8 portrait" width="450" />
+  <img src="./ascii-portrait.png.png" alt="Iamshreyasc8 portrait" width="450" />
 </p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shreyas Chakravarthy</h1>
 <h3 align="center">A passionate Data Analyst living in Germany</h3>
 
