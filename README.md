@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshreyasc8" alt="iamshreyasc8" /></a> </p>
 
+- 🌱 I’m currently learning **Claude Code**
+
+- 📫 How to reach me **shreyaschakravarthy99@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyaschakravarthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyaschakravarthy/" height="30" width="40" /></a>
