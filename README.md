@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Iamshreyasc8/github-snake/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Snake animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/Iamshreyasc8/github-snake/output/github-snake.svg"
+  />
+</picture>
